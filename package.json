@@ -1,0 +1,7 @@
+{
+  "name": "node-playground",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "expresso -I lib/ test"
+  }
+}
